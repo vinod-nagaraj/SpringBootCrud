@@ -1,0 +1,6 @@
+com.example.crud
+com.example.crud.controller
+com.example.crud.entity
+com.example.crud.repository
+com.example.crud.service
+com.example.crud.serviceimpl
